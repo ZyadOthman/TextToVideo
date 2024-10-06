@@ -36,9 +36,9 @@ def generate_video(text_prompt, num_frames=10):
         
         save_image(fake_frame, f'generated_video_{text_prompt.replace(" ", "_")}/frame_{frame_num}.png')
 
-generate_video('circle bouncing vertically')
+generate_video('circle moving down')
 
-folder_path = 'generated_video_circle_bouncing_vertically'
+folder_path = 'generated_video_circle_moving_down'
 
 
 image_files = [f for f in os.listdir(folder_path) if f.endswith('.png')]

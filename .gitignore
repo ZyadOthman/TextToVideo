@@ -1,3 +1,4 @@
-# Ignore model checkpoint files
 discriminator.pth
 generator.pth
+__pycache__/
+training_dataset/

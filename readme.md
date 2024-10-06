@@ -125,6 +125,18 @@ def generate_video(text_prompt, num_frames=10):
     # Save each frame as an image
 ```
 
+## Sample Dataset Video
+
+Here is a sample video from the training dataset, where a circle moves down:
+
+![Sample Dataset Video](/sample.gif)
+
+## Generated Video
+
+This is a generated video based on the text prompt "circle moving down":
+
+[![Generated Video]](/generated.gif)
+
 ## Installation
 
 1. Clone the repository:
