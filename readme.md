@@ -135,7 +135,7 @@ Here is a sample video from the training dataset, where a circle moves down:
 
 This is a generated video based on the text prompt "circle moving down":
 
-[![Generated Video]](/generated.gif)
+![Generated Video](/generated.gif)
 
 ## Installation
 
