@@ -1,0 +1,3 @@
+# Ignore model checkpoint files
+discriminator.pth
+generator.pth
